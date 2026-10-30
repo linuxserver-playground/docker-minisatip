@@ -13,6 +13,11 @@ upstream:
   notes:
     type: github_release
     repo: catalinii/minisatip
+  sponsor:
+  - name: minisatip
+    url: https://paypal.me/minisatip
+  - name: minisatip (GitHub Sponsors)
+    url: https://github.com/sponsors/catalinii
 
 release:
   branch: master
